@@ -64,14 +64,14 @@ export const Header = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icons">
-                <a href="#">
-                  <img src={icon1} alt="Logo" />
+                <a href="/home">
+                  <img className=" footer-icon" src={icon1} alt="Logo" />
                 </a>
-                <a href="#">
-                  <img src={icon2} alt="Logo" />
+                <a href="/home">
+                  <img className=" footer-icon" src={icon2} alt="Logo" />
                 </a>
-                <a href="#">
-                  <img src={icon3} alt="Logo" />
+                <a href="/home">
+                  <img className=" footer-icon" src={icon3} alt="Logo" />
                 </a>
               </div>
               <button

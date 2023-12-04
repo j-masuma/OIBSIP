@@ -49,10 +49,11 @@ const Banner = () => {
               Hi, I am Javaria <span className="wrap">{text}</span>
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia
-              ratione odio dignissimos delectus omnis maiores temporibus
-              officiis recusandae vitae quisquam cum, ut corporis corrupti, nemo
-              numquam perspiciatis inventore voluptatum nesciunt.
+              I am a versatile professional, proficient in web development,
+              design, and front-end development. With a keen eye for aesthetics
+              and a passion for creating seamless user experiences, I bring
+              creativity and technical expertise to every project, ensuring a
+              visually appealing and functional digital presence.
             </p>
             <button
               onClick={() => {
